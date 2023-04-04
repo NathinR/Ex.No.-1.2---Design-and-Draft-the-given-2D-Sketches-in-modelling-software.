@@ -37,7 +37,7 @@
 
  ## OUTPUT
  
- ![Screenshot 2023-03-14 at 20-10-36 Sheet1 - Exp_ 1 2 pdf](https://user-images.githubusercontent.com/118679646/225037193-c9340686-a4b2-4071-bcf8-171c4b11bac6.png)
+![image](https://user-images.githubusercontent.com/118679646/229732623-d08f1212-1715-4fd1-b385-e70da2c22ab1.png)
  
  
  ## RESULT
